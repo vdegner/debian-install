@@ -1,3 +1,4 @@
+#!/bin/bash
 root_drive=/dev/sda5
 home_drive=/dev/sdb1
 boot_drive=/dev/sda1
