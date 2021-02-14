@@ -1,0 +1,1 @@
+# Fast Debian installer script
